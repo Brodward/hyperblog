@@ -7,6 +7,7 @@ Esta aprendiendo a programar y va a ser el mejor!
 En camara parec alto pero la verdad no es tan alto.
 
 Anita platzi tiene 41 años y nacio en internet
+Soy la verdadera Anita y este es mi primer cambio desde GitHub
 
 Hoy estoy aprendiendo en platzi, git y github
 
