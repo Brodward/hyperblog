@@ -8,6 +8,7 @@ En camara parec alto pero la verdad no es tan alto.
 
 Anita platzi tiene 41 años y nacio en internet
 Soy la verdadera Anita y este es mi primer cambio desde GitHub
+Soy la verdadera Anita y este es mi primer cambio desde Git
 
 Hoy estoy aprendiendo en platzi, git y github
 
