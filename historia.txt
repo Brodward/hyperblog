@@ -12,3 +12,5 @@ Soy la verdadera Anita y este es mi primer cambio desde Git
 
 Hoy estoy aprendiendo en platzi, git y github
 Este texto lo escribi desde el editor de la consola en la clase 29 minuto 5:21
+
+Este texto lo escribi en la clase 29 comprobando lo dicho en el minuto 8
