@@ -12,3 +12,5 @@ Soy la verdadera Anita y este es mi primer cambio desde Git
 
 Hoy estoy aprendiendo en platzi, git y github
 
+Agregue este texto desde Github como prueba de la clase 28
+
