@@ -20,3 +20,4 @@ Otro texto de prueba de la clase 29
 Este es un texto de prueba que se escribio en github desde  elBrayansoyy
 Este texto se agrego desde el editor de git
 Escribiendo desde el editor de git
+Otro texto desde el editor de git
