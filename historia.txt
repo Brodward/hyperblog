@@ -17,4 +17,6 @@ Este texto lo escribi en la clase 29 comprobando lo dicho en el minuto 8
 
 Otro texto de prueba de la clase 29
 
-Este es un texto de prueba que se escribio en github desde  elBrayansoyyo
+Este es un texto de prueba que se escribio en github desde  elBrayansoyy
+Este texto se agrego desde el editor de git
+
