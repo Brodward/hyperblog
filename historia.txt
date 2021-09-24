@@ -13,6 +13,7 @@ Soy la verdadera Anita y este es mi primer cambio desde Git
 Hoy estoy aprendiendo en platzi, git y github
 Este texto lo escribi desde el editor de la consola en la clase 29 minuto 5:21
 
+<<<<<<< HEAD
 Este texto lo escribi en la clase 29 comprobando lo dicho en el minuto 8
 
 Otro texto de prueba de la clase 29
@@ -20,3 +21,12 @@ Otro texto de prueba de la clase 29
 Este es un texto de prueba que se escribio en github desde  elBrayansoyy
 Este texto se agrego desde el editor de git
 Escribiendo desde el editor de git
+Otro texto desde el editor de git
+Texto escrito por El Brayan soy yo desde Git
+Creo que esta si es
+Esta creo creo creo que si es
+Por fin
+=======
+Agregue este texto desde Github como prueba de la clase 28
+
+>>>>>>> 035cdb6082bce34cf5d4c85dfe36fc8fe2e680a4
