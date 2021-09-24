@@ -26,6 +26,7 @@ Texto escrito por El Brayan soy yo desde Git
 Creo que esta si es
 Esta creo creo creo que si es
 Por fin
+Este texto lo agrego siguiendo la clase 29 minuto 14:57
 =======
 Agregue este texto desde Github como prueba de la clase 28
 
